@@ -15,9 +15,13 @@ typedef double Element_Type; /*栈内的元素为 double类型*/
 
 
 typedef struct Sequence_Stack /*栈的存储结构*/
+
 {
+
     Element_Type data[MAX_SIZE]; /*栈数据*/
+    
     int top_index;               /*栈顶下标索引*/
+    
 } _Sq_Stack_;
 
 
