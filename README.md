@@ -19,9 +19,9 @@ Declaration Implementation and use of Sequence_Stack
     typedef struct Sequence_Stack /*栈的存储结构*/
     {
 
-    Element_Type data[MAX_SIZE]; /*栈数据*/
-    
-    int top_index;               /*栈顶下标索引*/
+        Element_Type data[MAX_SIZE]; /*栈数据*/
+
+        int top_index;               /*栈顶下标索引*/
     
     } _Sq_Stack_;
 
@@ -67,6 +67,6 @@ Stack_Main.exe   编译后得到的可执行文件
 鄙人目前正在复习数据结构，以后会经常再Github.com上更新，如有问题请各位指出，Thanks!!
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Date:2023.3.14        
+Date: 2023.3.14        
 
-Author:JesseZ332623
+Author: JesseZ332623
