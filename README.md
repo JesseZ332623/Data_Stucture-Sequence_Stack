@@ -68,6 +68,17 @@ Declaration Implementation and use of Sequence_Stack
     Stack_Main.c        完成栈的初始化，入栈，出栈，读栈等操作
 
     Stack_Main.exe      编译后得到的可执行文件
+    
+运行结果
+----------------------------------------------------------------------------------------------------------------------------------
+1.初始化栈，入栈
+![image](https://user-images.githubusercontent.com/101250851/225480279-dc664f14-3316-4137-ad9a-786b0048f25a.png)
+
+2.出栈
+![image](https://user-images.githubusercontent.com/101250851/225480399-08f69f93-c4ff-4596-8ace-26b32f43a7ae.png)
+
+3.读取栈内数据并释放栈
+![image](https://user-images.githubusercontent.com/101250851/225480486-300e8ca4-93b0-44d0-a3f3-5407821be90a.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
