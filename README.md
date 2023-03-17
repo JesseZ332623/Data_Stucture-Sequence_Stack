@@ -92,7 +92,7 @@ License
 
 鄙人目前正在复习数据结构，以后会经常在Github.com上更新。
 
-如有问题欢迎提交 [https://github.com/JesseZ332623/Data_Stucture-Sequence_Stack/issues]，Thanks!!ヾ(≧▽≦*)o
+如有问题欢迎提交  [https://github.com/JesseZ332623/Data_Stucture-Sequence_Stack/issues ]，Thanks!!ヾ(≧▽≦*)o
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Date: 2023.3.14        
